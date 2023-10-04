@@ -1,4 +1,36 @@
 print("DataScienceEcosystem Final Assessment")
+Data Science Tools and Eco System
+In this notebook, Data Science Tools and Ecosystem are summarized.
+
+Objectives:
+
+List of popular language that Data Scientist use.
+Commonly used libraries used by Data Scientist.
+A few examples if arithmetic expressions.
+Some of the popular languages that Data Scientists use are:
+
+1. Python 
+2. R 
+3. SQL
+Some of the commonly used libraries used by Data Scientists include:
+
+1. NumPy
+2. SciPy
+3. Pandas
+4. TensorFLow
+Data Sceience Tools
+TensorFlow
+Apache Spark
+RStudio
+Below are a few examples of evaluating arithmetic expressions in Python
+# This a simple arithmetic expression to mutiply then add integers
+(3*4)+5
+17
+# This will convert 200 minutes to hours by diving by 60
+(200/60)
+Author
+Lam Jing Hai
+
 ![2-title](https://github.com/jing-hai-lam/DatascienceEcosystem/assets/146957253/e857f517-d9cc-43a5-84ed-badd09f9742f)
 ![3-intro](https://github.com/jing-hai-lam/DatascienceEcosystem/assets/146957253/794ad7c1-234e-4254-bbc4-6978819b4348)
 ![4-dslanguages](https://github.com/jing-hai-lam/DatascienceEcosystem/assets/146957253/0a10cc2e-d1a8-4733-8ce5-6a1b9b57f173)
